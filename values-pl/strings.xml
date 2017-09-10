@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">Przejdź do strony głównej</string>
+<string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+<string name="abc_action_bar_up_description">Przejdź wyżej</string>
+<string name="abc_action_menu_overflow_description">Więcej opcji</string>
+<string name="abc_action_mode_done">Gotowe</string>
+<string name="abc_activity_chooser_view_see_all">Zobacz wszystkie</string>
+<string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+<string name="abc_capital_off">WYŁ.</string>
+<string name="abc_capital_on">WŁ.</string>
+<string name="abc_search_hint">Szukaj…</string>
+<string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+<string name="abc_searchview_description_query">Wyszukiwane hasło</string>
+<string name="abc_searchview_description_search">Szukaj</string>
+<string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+<string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+<string name="abc_shareactionprovider_share_with">Udostępnij dla</string>
+<string name="abc_shareactionprovider_share_with_application">Udostępnij dla %s</string>
+<string name="abc_toolbar_collapse_description">Zwiń</string>
+<string name="common_google_play_services_unknown_issue">%1$s ma problem z dostępem do usług Google Play. Jeśli problem będzie się utrzymywać, skontaktuj się z programistą, by uzyskać pomoc.</string>
+<string name="mdtp_date_v1_monthyear">LLLL yyyy</string>
+<string name="mdtp_day_picker_description">Siatka miesięczna z dniami</string>
+<string name="mdtp_deleted_key">%1$s usunięte</string>
+<string name="mdtp_done_label">Gotowe</string>
+<string name="mdtp_hour_picker_description">Kołowy suwak godzin</string>
+<string name="mdtp_item_is_selected">Wybrałeś %1$s</string>
+<string name="mdtp_minute_picker_description">Kołowy suwak minut</string>
+<string name="mdtp_select_day">Wybierz miesiąc i dzień</string>
+<string name="mdtp_select_hours">Wybierz godziny</string>
+<string name="mdtp_select_minutes">Wybierz minuty</string>
+<string name="mdtp_select_year">Wybierz rok</string>
+<string name="mdtp_year_picker_description">Lista lat</string>
+<string name="search_menu_title">Szukaj</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+<string name="app_name">Notify Me</string>
+<string name="apprater_later">Później</string>
+<string name="apprater_message">"Jeśli lubisz Nie, przepraszam, poświęć chwilę, aby ją ocenić.
+Dziękuję za wsparcie!"</string>
+<string name="apprater_no">Nie, przepraszam</string>
+<string name="apprater_rate">Oceń</string>
+<string name="apprater_title">Oceń Notify Me</string>
+<string name="bundled_notification_notification">Powiadomienie</string>
+<string name="bundled_notification_notifications">Powiadomienia</string>
+<string name="color_list_color">Kolor</string>
+<string name="color_picker_default_title">Wybierz kolor</string>
+<string name="color_swatch_description">Kolor %1$d</string>
+<string name="color_swatch_description_selected">Wybrano kolor %1$d</string>
+<string name="context_menu_cancel">Anuluj</string>
+<string name="dialog_delete_all_message">Czy na pewno chcesz usunąć wszystkie usunięte powiadomienia? Nie można ich przywrócić.</string>
+<string name="dialog_delete_all_no">Nie</string>
+<string name="dialog_delete_all_title">Usuń usunięte powiadomienia</string>
+<string name="dialog_delete_all_yes">Tak</string>
+<string name="dialog_delete_notification_message">Czy na pewno chcesz usunąć to powiadomienie? Nie można go przywrócić.</string>
+<string name="dialog_delete_notification_no">Nie</string>
+<string name="dialog_delete_notification_title">Usuń powiadomienie</string>
+<string name="dialog_delete_notification_yes">Tak</string>
+<string name="dialog_remove_all_message">Czy na pewno chcesz usunąć wszystkie aktualne powiadomienia?</string>
+<string name="dialog_remove_all_no">Nie</string>
+<string name="dialog_remove_all_title">Usuń aktualne powiadomienia</string>
+<string name="dialog_remove_all_yes">Tak</string>
+<string name="fragment_about_app_title">Informacje o aplikacji</string>
+<string name="fragment_about_email">"E-Mail:
+kilaapps@gmail.com"</string>
+<string name="fragment_about_fizzbuzz">SyczBrzęcz(Kliknij tutaj)</string>
+<string name="fragment_about_flinkestippen">Szybkie pisanie (kliknij tutaj)</string>
+<string name="fragment_about_libraries">Biblioteki:</string>
+<string name="fragment_about_libraries_android_icons">"Android icons; Creative Commons BY 4.0; https://creativecommons.org/licenses/by/4.0/ 
+
+"</string>
+<string name="fragment_about_libraries_color_picker">"android colorpicker; Apache License Version 2.0; https://android.googlesource.com/platform/frameworks/opt/colorpicker/ modified by me 
+
+"</string>
+<string name="fragment_about_libraries_material_date_timer_picker">"MaterialDateTimePicker; wdullaer; Material DateTime Picker tries to offer you the date and time pickers as shown in the Material Design spec, with an easy themable API. The library uses the code from the Android frameworks as a base and tweaked it to be as close as possible to Material Design example.; Apache License Version 2.0:
+ Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION 1. Definitions. \"License\" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document. \"Licensor\" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License. \"Legal Entity\" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, \"control\" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity. \"You\" (or \"Your\") shall mean an individual or Legal Entity exercising permissions granted by this License. \"Source\" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files. \"Object\" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types. \"Work\" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below). \"Derivative Works\" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof. \"Contribution\" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, \"submitted\" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as \"Not a Contribution.\" \"Contributor\" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work. 2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form. 3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed. 4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions: (a) You must give any other recipients of the Work or Derivative Works a copy of this License; and (b) You must cause any modified files to carry prominent notices stating that You changed the files; and (c) You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and (d) If the Work includes a \"NOTICE\" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License. 5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions. 6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file. 7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License. 8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages. 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted( against, such Contributor by reason of your accepting any such warranty or additional liability. END OF TERMS AND CONDITIONS APPENDIX: How to apply the Apache License to your work. To apply the Apache License to your work, attach the following boilerplate notice, with the fields enclosed by brackets \"[]\" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax for the file format. We also recommend that a file or class name and description of purpose be included on the same \"printed page\" as the copyright notice for easier identification within third-party archives. Copyright [2014] Wouter Dullaert Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+"</string>
+<string name="fragment_about_libraries_material_dialog">"Material Dialog; Pepperonas; This tiny Android library provides Material-Design dialog; Apache License Version 2.0:
+ Copyright 2016 Martin Pfeffer
+ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+ 1. Definitions.
+ \"License\" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+ \"Licensor\" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+ \"Legal Entity\" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, \"control\" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+ \"You\" (or \"Your\") shall mean an individual or Legal Entity exercising permissions granted by this License.
+ \"Source\" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+ \"Object\" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+ \"Work\" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+ \"Derivative Works\" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+ \"Contribution\" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, \"submitted\" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as \"Not a Contribution.\"
+ \"Contributor\" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+ 2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+ 3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
+ 4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
+ You must give any other recipients of the Work or Derivative Works a copy of this License; and
+ You must cause any modified files to carry prominent notices stating that You changed the files; and
+ You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+ If the Work includes a \"NOTICE\" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
+ You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
+ 5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.
+ 6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+ 7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
+ 8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+ 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
+ END OF TERMS AND CONDITIONS
+
+"</string>
+<string name="fragment_about_libraries_material_icons">"Material icons; Apache License Version 2.0; https://material.io/icons/ 
+
+"</string>
+<string name="fragment_about_more_apps">Więcej aplikacji:</string>
+<string name="fragment_about_name">Kontakt
+Lars Fessen"</string>
+<string name="fragment_about_privacy_policy_text">"&lt;b&gt;Privacy Policy&lt;/b&gt;&lt;br/&gt; This Privacy Policy informs the user about what data is collected, why it is collected, and what is done with it.&lt;br/&gt;&lt;br/&gt; &lt;b&gt;About&lt;/b&gt;&lt;br/&gt; If you write an email to the developer all information you sent will be collected and saved for processing and further support reasons. The information will not be transferred to third parties.&lt;br/&gt; We draw your attention to the fact that data transmission over the Internet (e.g. when communicating by e-mail) may involve gaps in security.&lt;br/&gt;&lt;br/&gt; &lt;b&gt;App&lt;/b&gt;&lt;br/&gt; You can use the app without providing any personal data. The app itsself does not collect personal data at any time.&lt;br/&gt; The app offers the possibility to connect with the Google Play Games Services. By doing this it might be that personal data is collected by the services.&lt;br/&gt; The app is using Firebase. A software which helps to improve the app by sending crash reports. The crash reports do not collect personal data.&lt;br/&gt; You can find the corresponding privacy policy of both services at:&lt;br/&gt;&lt;a href=https://www.google.com/intl/en/policies/privacy/&gt;https://www.google.com/intl/en/policies/privacy/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt; &lt;b&gt;Permissions&lt;/b&gt;&lt;br/&gt; Hereinafter the user is informed about the necessary permissions and for what they are used:&lt;br/&gt; Full Internet access: Used by Firebase Crash Reporting Tool&lt;br/&gt; View Network status / WiFi state: Used by Firebase Crash Reporting Tool&lt;br/&gt; Control vibration: Used to use vibration for notifications&lt;br/&gt; Run at startup: Used to show Notifications after restart&lt;br/&gt;&lt;br/&gt; The Privacy Policy may change from time to time during the futures services updates. We will always keep this Policy up to date.&lt;br/&gt;&lt;br/&gt; Firebase license:&lt;br/&gt; Firebase distributes open source software with realtime clients and SDKs. Google Closure Copyright 2009 The Closure Compiler Authors. Licensed under the Apache License, Version 2.0 (the License); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. Google LevelDB Copyright &amp;#169; 2011 The LevelDB Authors. All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. * Neither the name of Google Inc. nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS AS IS AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. APLevelDB Created by Adam Preble on 1/23/12. Copyright &amp;#169; 2012 Adam Preble. All rights reserved. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. Jackson Copyright ©2009 FasterXML, LLC. Licensed under the Apache License, Version 2.0 (the License); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. Square Socket Rocket Copyright 2012 Square Inc. Licensed under the Apache License, Version 2.0 (the License); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. Firebase Tubesock The MIT License (MIT) Copyright © 2014 Firebase Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. SJCL Copyright 2009-2010 Emily Stark, Mike Hamburg, Dan Boneh. All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. THIS SOFTWARE IS PROVIDED BY THE AUTHORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL &lt;COPYRIGHT HOLDER&gt; OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. The views and conclusions contained in the software and documentation are those of the authors and should not be interpreted as representing official policies, either expressed or implied, of the authors. WinChan Copyright &amp;#169; 2012 Lloyd Hilaiel Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. Node.js Copyright Joyent, Inc. and other Node contributors. All rights reserved. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. Apache HttpComponents Apache HttpComponents Client Copyright 1999-2009 The Apache Software Foundation This product includes software developed by The Apache Software Foundation (http://www.apache.org/). This project contains annotations derived from JCIP-ANNOTATIONS Copyright &amp;#169; 2005 Brian Goetz and Tim Peierls. See http://www.jcip.net"</string>
+<string name="fragment_about_title">O mnie</string>
+<string name="fragment_about_version">Wersja:</string>
+<string name="fragment_about_zahlenspiel">Nielegalna Loteria (kliknij tutaj)</string>
+<string name="fragment_add_notification_advanced_settings">Zaawansowane</string>
+<string name="fragment_add_notification_alarm_before_current_time">Data jest z przeszłości. Powiadomienie zostanie wyświetlone natychmiast.</string>
+<string name="fragment_add_notification_alarm_daily">Codziennie</string>
+<string name="fragment_add_notification_alarm_monthly">Co miesiąc</string>
+<string name="fragment_add_notification_alarm_repeating_not_set">Proszę wybrać co najmniej jedną datę.</string>
+<string name="fragment_add_notification_alarm_today">Dzisiaj</string>
+<string name="fragment_add_notification_alarm_tomorrow">Jutro</string>
+<string name="fragment_add_notification_alarm_weekly">Co tydzień</string>
+<string name="fragment_add_notification_app_name_not_found">Nie znaleziono nazwy aplikacji</string>
+<string name="fragment_add_notification_choose_icon">Wybierz ikonę</string>
+<string name="fragment_add_notification_choose_icon_explanation_color">Niezależnie od wybranego motywu, ikona będzie biała na pasku powiadomień.</string>
+<string name="fragment_add_notification_delete_on_click">Usuń powiadomienie, klikając je</string>
+<string name="fragment_add_notification_description_hint">Opis</string>
+<string name="fragment_add_notification_friday">Pt</string>
+<string name="fragment_add_notification_heads_up_notification">Pływające Powiadomienia Pop-Up</string>
+<string name="fragment_add_notification_loading_external_apps">Ładuję..</string>
+<string name="fragment_add_notification_monday">Pn</string>
+<string name="fragment_add_notification_more_information">Co oznaczają te wszystkie ustawienia?</string>
+<string name="fragment_add_notification_more_information_alarm">Alarm: umożliwia wyświetlanie powiadomienia o określonym czasie w przyszłości (możliwe powtórzenia)</string>
+<string name="fragment_add_notification_more_information_background_color">Kolor tła: zmienia kolor (1. powiadomienie powyżej: domyślne, 2. powiadomienie powyżej: czerwone)</string>
+<string name="fragment_add_notification_more_information_delete_on_click">Usuń klikając: powiadomienie zostanie usunięte, jeśli zostanie kliknięte na pasku powiadomień (wyjątek: powtarzające się powiadomienia)</string>
+<string name="fragment_add_notification_more_information_description">Opis: Wybierz opis (\"Chleb, Woda, Ser\" w powyższym przykładzie)</string>
+<string name="fragment_add_notification_more_information_dialog_title">Więcej informacji</string>
+<string name="fragment_add_notification_more_information_heads_up">Pływające Powiadomienia Pop-Up będą wyświetlane powyżej aktualnej aplikacji przez krótki czas (działa tylko z alarmem)</string>
+<string name="fragment_add_notification_more_information_icon">Ikona: Zmień ikonę (zakupy w powyższym przykładzie)</string>
+<string name="fragment_add_notification_more_information_permanent_notification">Nie przesuwaj: nie można usunąć powiadomienia, przesuwając go na pasku powiadomień</string>
+<string name="fragment_add_notification_more_information_sound">Dźwięk: Zmień dźwięk powiadomienia</string>
+<string name="fragment_add_notification_more_information_start_external_app">Otwórz inną aplikację: inna aplikacja zostanie otwarta po kliknięciu powiadomienia</string>
+<string name="fragment_add_notification_more_information_title">Tytuł: Wybierz tytuł (\"Zakupy\" w powyższym przykładzie)</string>
+<string name="fragment_add_notification_notification_alarm">Ustaw alarm</string>
+<string name="fragment_add_notification_notification_alarm_remove">Usuń alarm</string>
+<string name="fragment_add_notification_notification_background_color">Kolor tła powiadomienia</string>
+<string name="fragment_add_notification_notification_icon">Ikona powiadomienia</string>
+<string name="fragment_add_notification_notification_sound">Dźwięk powiadomienia</string>
+<string name="fragment_add_notification_notification_sound_silent">Cichy</string>
+<string name="fragment_add_notification_permanent_notification">Nie można usunąć przesunięciem</string>
+<string name="fragment_add_notification_saturday">So</string>
+<string name="fragment_add_notification_snackbar">"Nie podobają ci się ustawienia domyślne?  Zmień je w 'Ustawieniach'"</string>
+<string name="fragment_add_notification_snackbar_understood">OK</string>
+<string name="fragment_add_notification_start_external_app">Otwórz inną aplikację po kliknięciu</string>
+<string name="fragment_add_notification_start_external_app_icon">Ikona aplikacji</string>
+<string name="fragment_add_notification_sunday">Ni</string>
+<string name="fragment_add_notification_thursday">Cz</string>
+<string name="fragment_add_notification_title_error">Proszę wstawić tytuł</string>
+<string name="fragment_add_notification_title_hint">Tytuł</string>
+<string name="fragment_add_notification_tuesday">Wt</string>
+<string name="fragment_add_notification_wednesday">Śr</string>
+<string name="fragment_edit_notification_delete_on_click">Usuń powiadomienie, klikając je</string>
+<string name="fragment_edit_notification_description_hint">Opis</string>
+<string name="fragment_edit_notification_notification_background_color">Kolor tła powiadomienia</string>
+<string name="fragment_edit_notification_permanent_notification">Nie można usunąć przesunięciem</string>
+<string name="fragment_edit_notification_start_external_app">Otwórz inną aplikację po kliknięciu</string>
+<string name="fragment_edit_notification_start_external_app_icon">Ikona aplikacji</string>
+<string name="fragment_settings_action_buttons">Przyciski akcji</string>
+<string name="fragment_settings_action_buttons_description">Wybierz wyświetlone przyciski akcji (maks. 3)</string>
+<string name="fragment_settings_change_notification_visibility">Powiadomienia na ekranie blokady</string>
+<string name="fragment_settings_change_notification_visibility_text">Możesz zmienić widoczność powiadomień na ekranie blokady w ustawieniach Androida. Możesz zdecydować, czy wyświetlać wszystkie szczegóły powiadomień czy ukryć szczegóły. Ustawienie nazywa się "\"Gdy urządzenie jest zablokowane\"(może być inne na Twoim urządzeniu).</string>
+<string name="fragment_settings_default_notification_description">Wybierz ustawienia domyślne, które są ustawiane podczas tworzenia nowego powiadomienia</string>
+<string name="fragment_settings_default_notification_header">Domyślne powiadomienie</string>
+<string name="fragment_settings_notification_choose_color">Wybierz kolor tła</string>
+<string name="fragment_settings_notification_close_app_after_add">Zamknij aplikację po dodaniu lub edycji powiadomienia</string>
+<string name="fragment_settings_notification_delete_on_click">Usuń powiadomienie, klikając je</string>
+<string name="fragment_settings_notification_exact_alarm">Dokładnie zaplanuj alarm (zwiększa moc baterii). Jeśli nie jest zaznaczone, alarm może mieć opóźnienie do 15 minut.</string>
+<string name="fragment_settings_notification_led_color">"Kolor LED podobny do koloru tła
+(jeśli jest obsługiwany) "</string>
+<string name="fragment_settings_notification_notification_background_color">Kolor tła powiadomienia</string>
+<string name="fragment_settings_notification_notification_before_alarm">Pokaż powiadomienia natychmiast, przed ustawionym alarmem</string>
+<string name="fragment_settings_notification_notification_icon">Ikona powiadomienia</string>
+<string name="fragment_settings_notification_notification_sound">Dźwięk powiadomienia</string>
+<string name="fragment_settings_notification_permanent_notification">Nie można usunąć przesunięciem</string>
+<string name="fragment_settings_notification_start_external_app">Otwórz inną aplikację po kliknięciu</string>
+<string name="fragment_settings_notification_start_external_app_icon">Ikona aplikacji</string>
+<string name="fragment_settings_notification_sticky_notification">Pokaż gorące powiadomienie do szybkiego dostępu</string>
+<string name="fragment_settings_other_settings">Inne ustawienia</string>
+<string name="fragment_settings_rate_app">Oceń aplikację</string>
+<string name="fragment_settings_rate_app_text">Jeśli lubisz używać Notify Me, poświęć chwilę na ocenę. Kliknij tutaj, aby ocenić.</string>
+<string name="fragment_settings_snooze_duration">Czas drzemki (min.)</string>
+<string name="fragment_settings_theme_description">Włącz Ciemny Motyw</string>
+<string name="fragment_settings_theme_header">Motyw</string>
+<string name="icon_list_icon">Ikona</string>
+<string name="notification_action_bundle">Pakietuj powiadomienia</string>
+<string name="notification_action_edit">Edycja</string>
+<string name="notification_action_remove">Usuń</string>
+<string name="notification_action_share">Udostępnij</string>
+<string name="notification_action_snooze">Drzemka</string>
+<string name="notification_action_unbundle">Rozdzielaj powiadomienia</string>
+<string name="notification_color_cancel">Anuluj</string>
+<string name="notification_data_delete">Usuń powiadomienie</string>
+<string name="notification_data_duplicate">Duplikuj powiadomienie</string>
+<string name="notification_data_edit">Edytuj powiadomienie</string>
+<string name="notification_data_remove">Usuń powiadomienie</string>
+<string name="notification_data_restore">Powtórz powiadomienie</string>
+<string name="notification_data_share">Podziel się powiadomieniem</string>
+<string name="notification_data_share_chooser">Wybierz aplikację</string>
+<string name="notification_icons_cancel">Anuluj</string>
+<string name="options_menu_about">O programie</string>
+<string name="options_menu_clear_all">Wyczyść wszystko</string>
+<string name="options_menu_settings">Ustawienia</string>
+<string name="receiver_repeating_dialog">Notify Me - Powtarzanie alarmu</string>
+<string name="receiver_repeating_dialog_message">"To powiadomienie ma powtarzający się alarm." "Wyjście" nie spowoduje zatrzymania tego alarmu. Kliknij przycisk "Usuń", aby zatrzymać alarm. "</string>
+<string name="receiver_repeating_dialog_remember">Pamiętaj</string>
+<string name="receiver_repeating_dialog_understood">OK</string>
+<string name="shared_preferences_loading_error">Błąd ładowania</string>
+<string name="sticky_notification_add_notification_description">Kliknij, aby dodać powiadomienie</string>
+<string name="sticky_notification_add_notification_title">Dodaj powiadomienie</string>
+<string name="tab_layout_current_notifications">Aktualne</string>
+<string name="tab_layout_current_notifications_icon">Ikona powiadomienia</string>
+<string name="tab_layout_current_notifications_no_notifications">Brak powiadomień</string>
+<string name="tab_layout_current_notifications_number_of_notifications_error">Zbyt wiele powiadomień</string>
+<string name="tab_layout_current_notifications_number_of_notifications_error_text">"Przykro mi, że masz już tak wiele powiadomień. Jeszcze więcej nie byłoby dobre dla twojej baterii, a Android nie obsługuje nieskończonej liczby powiadomień :("</string>
+<string name="tab_layout_current_notifications_number_of_notifications_error_understood">OK</string>
+<string name="tab_layout_current_notifications_number_of_notifications_warning">Wiele powiadomień</string>
+<string name="tab_layout_current_notifications_number_of_notifications_warning_cancel">Nie</string>
+<string name="tab_layout_current_notifications_number_of_notifications_warning_text">Masz już wiele powiadomień. Czy na pewno chcesz dodać inne?</string>
+<string name="tab_layout_current_notifications_number_of_notifications_warning_understood">Tak</string>
+<string name="tab_layout_removed_notifications">Usunięte</string>
+<string name="tab_layout_removed_notifications_number_of_notifications_warning">Usunięto wiele powiadomień</string>
+<string name="tab_layout_removed_notifications_number_of_notifications_warning_cancel">Później</string>
+<string name="tab_layout_removed_notifications_number_of_notifications_warning_delete_all">Usuń wszystko</string>
+<string name="tab_layout_removed_notifications_number_of_notifications_warning_text">Masz wiele usuniętych powiadomień. Usuń je, aby uzyskać lepszą wydajność.</string>
+<string name="mdtp_cancel">@android:string/cancel</string>
+<string name="mdtp_day_of_week_label_typeface">sans-serif</string>
+<string name="abc_font_family_body_1_material">sans-serif</string>
+<string name="abc_font_family_body_2_material">sans-serif-medium</string>
+<string name="abc_font_family_button_material">sans-serif-medium</string>
+<string name="abc_font_family_caption_material">sans-serif</string>
+<string name="abc_font_family_display_1_material">sans-serif</string>
+<string name="abc_font_family_display_2_material">sans-serif</string>
+<string name="abc_font_family_display_3_material">sans-serif</string>
+<string name="abc_font_family_display_4_material">sans-serif-light</string>
+<string name="abc_font_family_headline_material">sans-serif</string>
+<string name="abc_font_family_menu_material">sans-serif</string>
+<string name="abc_font_family_subhead_material">sans-serif</string>
+<string name="abc_font_family_title_material">sans-serif-medium</string>
+<string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+<string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+<string name="bullet_release_info">•</string>
+<string name="character_counter_pattern">%1$d / %2$d</string>
+<string name="default_web_client_id">202715591223-elidrphnmetsom1cakq2k6v8lvd6osit.apps.googleusercontent.com</string>
+<string name="firebase_database_url">https://addnotification-150008.firebaseio.com</string>
+<string name="gcm_defaultSenderId">202715591223</string>
+<string name="google_api_key">AIzaSyCbmAhChUI836ZuI1rNfK63hvCv7tF4PmQ</string>
+<string name="google_app_id">1:202715591223:android:ebd17dd00d53bbf6</string>
+<string name="google_crash_reporting_api_key">AIzaSyCbmAhChUI836ZuI1rNfK63hvCv7tF4PmQ</string>
+<string name="google_storage_bucket">addnotification-150008.appspot.com</string>
+<string name="mdtp_ampm_circle_radius_multiplier">0.22</string>
+<string name="mdtp_circle_radius_multiplier">0.82</string>
+<string name="mdtp_circle_radius_multiplier_24HourMode">0.85</string>
+<string name="mdtp_numbers_radius_multiplier_inner">0.6</string>
+<string name="mdtp_numbers_radius_multiplier_normal">0.81</string>
+<string name="mdtp_numbers_radius_multiplier_outer">0.83</string>
+<string name="mdtp_ok">@android:string/ok</string>
+<string name="mdtp_radial_numbers_typeface">sans-serif</string>
+<string name="mdtp_sans_serif">sans-serif</string>
+<string name="mdtp_second_picker_description">Okrągły Suwak sekund</string>
+<string name="mdtp_select_seconds">Wybierz sekundy</string>
+<string name="mdtp_selection_radius_multiplier">0.16</string>
+<string name="mdtp_text_size_multiplier_inner">0.11</string>
+<string name="mdtp_text_size_multiplier_normal">0.12</string>
+<string name="mdtp_text_size_multiplier_outer">0.08</string>
+<string name="mdtp_time_placeholder">00</string>
+<string name="mdtp_time_separator">:</string>
+<string name="password_toggle_content_description">Włącza widoczność hasła</string>
+<string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+<string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+<string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+<string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+</resources>
